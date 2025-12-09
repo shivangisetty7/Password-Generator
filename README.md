@@ -27,4 +27,4 @@ This is a simple **cybersecurity-focused Python project** that generates strong 
 4. Run:
 
 ```bash
-python passwordgenandcheck.py
+python password gen and check.py
