@@ -53,4 +53,15 @@ It demonstrates key security concepts like randomness, complexity, and entropy i
 
 ### **Run the script**
 ```bash
-python password_generator.py
+python password gen and check.py
+=== Password Generator & Strength Checker ===
+
+Enter desired password length (e.g., 12): 12
+Include lowercase letters? (y/n): y
+Include uppercase letters? (y/n): y
+Include digits? (y/n): y
+Include symbols? (y/n): y
+
+Generated Password:  A9f#4kLz2Q!x
+Password Strength : Very Strong
+
